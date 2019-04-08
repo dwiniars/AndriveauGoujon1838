@@ -1,0 +1,30 @@
+Author	Andriveau-Goujon, J.
+Author	Soulier, E.
+Date	1838
+Short Title	Afrique.
+Publisher	Andriveau-Goujon
+Publisher Location	Paris
+Type	Atlas Map
+Obj Height cm	40
+Obj Width cm	50
+Note	Relief shown by hachures. Paris prime meridian. Includes unexplored regions. Diagram of mountains across bottom of map.
+World Area	Africa
+Full Title	Afrique. Atlas Elementaire Simplifie. Publie par J. Andriveau-Goujon. E. Soulier del. A Paris, chez Andriveau-Goujon, Editeur, Rue du Bac, No. 17.
+List No	0940.006
+Page No	6
+Series No	8
+Engraver or Printer	Soulier, E.
+Publication Author	Andriveau-Goujon, J.
+Publication Author	Soulier, E.
+Pub Date	1838
+Pub Title	Atlas Elementaire Simplifie De Geographie Ancienne Et Moderne, Par E. Soulier (De Sauve), Professeur, Et J. Andriveau-Goujon. Approuve par le Conseil royal de l'Universite de France ... Paris. Chez Andriveau-Goujon, Geographe-Editeur, Rue Du Bac, 17.
+Pub Note	The maps are simplified somewhat, probably indicating that this was used in the schools. In many cases the graphics on the maps are most unusual. Maps are hand painted in full color. Date is estimate.
+Pub List No	0940.000
+Pub Type	World Atlas
+Pub Maps	31
+Pub Height cm	44
+Pub Width cm	29
+Image No	0940006
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/D5005/0940006.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Soulier, E.; Andriveau-Goujon, J.
